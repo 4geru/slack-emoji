@@ -131,6 +131,8 @@ These emoji files can be imported into Slack or other platforms that support cus
 ## 🔗 Related Resources
 
 - [NekoChat Emoji Collection by しかまつ](https://note.com/shikamatsu/n/nd217dc0617db) - Free custom cat-themed emojis for Slack/Discord
+- [SmartHR Custom Emoji Collection](https://smarthr.jp/column/other/custom-emoji-01/) - 120 curated Slack emojis for workplace communication
+- [MagicPod Software Testing Emoji](https://prtimes.jp/main/html/rd/p/000000037.000027392.html) - Specialized emoji for QA and testing professionals
 
 ---
 
